@@ -1,0 +1,25 @@
+body{
+    font-family: 'Gelasio', serif;
+}
+
+.first-container{
+    background-color: #fafafa;
+    background: url(../images/bodybuilding-close-up-dumbbells-equipment-260352.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.first-container h3 p{
+    color: gray;
+}
+
+.offers-container{
+    text-align: center
+}
+
+.offers-h2{
+    text-align: center;
+}
+
